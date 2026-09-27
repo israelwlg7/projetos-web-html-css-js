@@ -1,52 +1,56 @@
-﻿# 🌐 Projetos e Estudos Front-End (HTML5, CSS3 & JavaScript)
+# 🌐 Projetos e Estudos Front-End
 
-Repositório dedicado à consolidação e prática de desenvolvimento **Front-End**, abrangendo estruturação semântica com **HTML5**, estilização moderna e responsiva com **CSS3** e dinamismo interativo com **JavaScript Vanilla**.
+Repositório dedicado à prática e evolução no desenvolvimento **Front-End**, com projetos utilizando **HTML5, CSS3 e JavaScript**.
 
----
+Aqui estão reunidos projetos desenvolvidos durante meus estudos, com foco em estruturação de páginas, estilização, responsividade e interatividade.
 
-## 📁 Estrutura do Repositório
+## 📁 Projetos
 
-### 1. 🏢 [\site-institucional/\](./site-institucional)
-Website multi-páginas estruturado com boas práticas de navegação e semântica HTML:
-* **\home.html\**: Página inicial com header estilizado, apresentação e call-to-actions.
-* **\sobre.html\**: Página institucional detalhando informações de perfil e histórico.
-* **\style.css\**: Estilização modular com cartões (cards), botões interativos e rodapé.
+### 🏢 Site Institucional
 
-### 2. 🎴 [\slider-cards-interativo-js/\](./slider-cards-interativo-js)
-Componente interativo de carrossel/slider de cards tecnológicos construído com JavaScript puro:
-* **\index.html\**: Layout do slider com botões de navegação.
-* **\script.js\**: Lógica de alternância dinâmica de classes (\tivo\), controle de índices e transição entre cards.
-* **\style.css\**: Transições suaves, alinhamento flexbox e responsividade.
-* **\img/\**: Assets visuais temáticos de Inteligência Artificial, Cibersegurança e Programação.
+Website com múltiplas páginas, desenvolvido com HTML e CSS.
 
-### 3. 📄 [\landing-page-componentes/\](./landing-page-componentes)
-Páginas de testes e prototipagem de componentes visuais:
-* Protótipos de boas-vindas (\emvindo.html\) e layout com imagens responsivas.
+* `home.html` — Página inicial
+* `sobre.html` — Página sobre
+* `style.css` — Estilos do projeto
 
----
+### 🎴 Slider de Cards Interativo
 
-## 🛠️ Tecnologias & Conceitos Praticados
-* **HTML5:** Tags semânticas (\<header>\, \<main>\, \<section>\, \<footer>\, \<nav>\), acessibilidade e SEO básico.
-* **CSS3:** Flexbox, CSS Grid, responsividade, transições, estilização de botões, cards e tipografia.
-* **JavaScript:** Manipulação do DOM (\document.querySelector\, \classList.add/remove\), escuta de eventos (\ddEventListener\) e controle de arrays.
+Componente de slider desenvolvido utilizando **JavaScript Vanilla**.
 
----
+* `index.html` — Estrutura do slider
+* `style.css` — Estilização e responsividade
+* `script.js` — Lógica de interação e navegação
+* `img/` — Imagens utilizadas no projeto
 
-## 🚀 Como Visualizar os Projetos
-Basta clonar o repositório e abrir os arquivos \.html\ diretamente em qualquer navegador moderno:
+### 📄 Landing Page e Componentes
 
-\\\ash
+Projetos e testes voltados para a criação de páginas e componentes visuais utilizando HTML e CSS.
+
+## 🛠️ Tecnologias
+
+* HTML5
+* CSS3
+* JavaScript
+* Flexbox
+* CSS Grid
+* Design responsivo
+* Manipulação do DOM
+* Eventos JavaScript
+
+## 🚀 Como executar
+
+Clone o repositório:
+
+```bash
 git clone https://github.com/israelwlg7/projetos-web-html-css-js.git
 cd projetos-web-html-css-js
-\\\
-Dê dois cliques em qualquer arquivo \index.html\ ou \home.html\ ou use a extensão **Live Server** no VS Code.
+```
 
----
-
-## 📜 Certificação Relacionada
-* 🎓 **Aperfeiçoamento em HTML e CSS - Criação de Websites** | **SENAC (36 Horas)**.
-
----
+Depois, abra qualquer arquivo `.html` diretamente no navegador ou utilize a extensão **Live Server** no VS Code.
 
 ## 👤 Autor
-Desenvolvido por **[Israel Shalon Oliveira Leitão](https://github.com/israelwlg7)**.
+
+**Israel Shalon Oliveira Leitão**
+
+[GitHub](https://github.com/israelwlg7)
